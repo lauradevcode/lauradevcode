@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauradevcode&show_icons=true&locale=en&layout=compact" alt="felipecolor9" /></p>
-## 💻 My Skills
+ 💻 My Skills
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
 </p>
+
+
 
 
 
