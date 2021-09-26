@@ -56,9 +56,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 </p>
+<p align="center">
+👀 Visualizações de Javeiros no meu perfil: <img src="https://badges.pufler.dev/visits/lauradevcode/" alt="Laura-Beatriz" />
+</p>
+<br>
 
-<br>
-👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=Creuma-Kuzola&color=green" alt="Creuma-Kuzola" />
-<br>
-![Snake animation](https://github.com/samuelmozarthss/samuelmozarthss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
+
 </p>
