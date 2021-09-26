@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 </p>
 <p align="center">
-👀 Visualizações de Javeiros no meu perfil: <img src="https://komarev.com/ghpvc/?username=lauradevcode&color=green" alt="Laura-Beatriz" />
+👀 Visualizações de Javeiros no meu perfil: <img src="https://komarev.com/ghpvc/?username=lauradevcode&color=green" />
 </p>
 <br>
 
