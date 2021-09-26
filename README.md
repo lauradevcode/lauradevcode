@@ -50,6 +50,7 @@
 📖 Studying 💻
 </h2>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" height="25"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -58,4 +59,5 @@
 <br>
 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=Creuma-Kuzola&color=green" alt="Creuma-Kuzola" />
 ![Snake animation](https://github.com/samuelmozarthss/samuelmozarthss/blob/output/github-contribution-grid-snake.svg)
+</p>
 </p>
