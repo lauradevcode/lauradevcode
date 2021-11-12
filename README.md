@@ -3,13 +3,11 @@
   I'm Web Developer Fullstack, from São Paulo, Brazil.
 </p>
 
-<div align="center">
-
-  <a href="https://github.com/lauradevcode">
-
+<p align="center">
+<a href="https://github.com/lauradevcode">
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="G0nz4g4 Code">
-
-</div>
+&nbsp;&nbsp;
+</p>
 
 <p align='center'>
 
