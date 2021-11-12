@@ -1,4 +1,4 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+👩‍💻lauradevcode;Prazer+em+conhece-los!;🖥️🏳️‍🌈💻&center=true&size=28"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+lauradevcode;Prazer+em+conhece-los!;🖥️💻&center=true&size=28"></p>
 <p align='center'>
   I'm Web Developer Fullstack, from São Paulo, Brazil.
 </p>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/lauradevcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="lauradevcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=7&theme=cobalt"/>
 </p>
 
