@@ -1,7 +1,4 @@
-<h1 align='center'>
-  Hello 👋 <strong> I'm Laura Beatriz 👩🏽‍💻 </strong>
-</h1>
-
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+👩‍💻lauradevcode;Prazer+em+conhece-los!;🖥️🏳️‍🌈💻&center=true&size=28"></p>
 <p align='center'>
   I'm Web Developer Fullstack, from São Paulo, Brazil.
 </p>
