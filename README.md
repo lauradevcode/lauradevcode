@@ -4,6 +4,12 @@
 </p>
 
 <p align='center'>
+<a href="https://github.com/lauradevcode">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800"/>
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=lauradevcode&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
+</p>
+
+<p align='center'>
 
   <a href="https://www.linkedin.com/in/laurabeatrizlopes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,7 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/lauradevcode">
-  <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="lauradevcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=7&theme=cobalt"/>
 </p>
 
