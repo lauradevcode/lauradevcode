@@ -19,10 +19,12 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)](https://github.com/lauradevcode/)
-
-
 </p>
+
+<div align="center">
+  [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)]
+
+</div>
 
  <h3 align='center'>
   💻 My Skills 💻
