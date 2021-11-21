@@ -10,7 +10,6 @@
 </p><br>
 
 <p align='center'>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=radical)<hr>
 
   <a href="https://www.linkedin.com/in/laurabeatrizlopes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,10 +21,6 @@
   
 </p>
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=radical)<hr>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauradevcode&show_icons=true&locale=en&layout=compact" alt="lauradevcode" />
-
-
  <h3 align='center'>
   💻 My Skills 💻
 </h3>
