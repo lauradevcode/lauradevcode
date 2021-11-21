@@ -19,16 +19,14 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-  <a href="laura:lauracst2013@gmail.com">
-    <img src="=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-
 </p>
 
-<p align="center">
-  <a href="https://github.com/lauradevcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=7&theme=cobalt"/>
-</p>
+
+### Synthwave
+
+[![lauradevcode](https://github-readme-stats.vercel.app/api?username=lauradevcode&theme=synthwave)](https://github.com/lauradevcode/)
+
+[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)](https://github.com/lauradevcode/)
 
  <h3 align='center'>
   💻 My Skills 💻
