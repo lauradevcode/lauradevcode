@@ -22,8 +22,6 @@
 </p>
 
 <div align="center">
-[![lauradevcode](https://github-readme-stats.vercel.app/api?username=lauradevcode&theme=dark)](https://github.com/lauradevcode/)
-
 [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=dark)](https://github.com/lauradevcode/)
 </div>
 
