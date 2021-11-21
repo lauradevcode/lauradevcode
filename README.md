@@ -21,9 +21,9 @@
   
 </p>
 
-<div align="center">
+<p align="center">
 [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=default)](https://github.com/lauradevcode/)
-</div>
+</p>
 
  <h3 align='center'>
   💻 My Skills 💻
