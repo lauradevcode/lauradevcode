@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+    [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=radical)](https://github.com/lauradevcode/)
+
+  
 </p>
 
  <h3 align='center'>
@@ -52,8 +55,6 @@
 <p align="center">
 👀 Visualizações de Javeiros no meu perfil: <img src="https://komarev.com/ghpvc/?username=lauradevcode&color=green" />
 </p>
-
-  [![lauradevcode align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=radical)](https://github.com/lauradevcode/)
 
 
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
