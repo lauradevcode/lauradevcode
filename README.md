@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=dark)](https://github.com/lauradevcode/)
+[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=default)](https://github.com/lauradevcode/)
 </div>
 
  <h3 align='center'>
