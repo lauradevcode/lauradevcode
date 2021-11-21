@@ -18,13 +18,10 @@
   <a href="https://www.instagram.com/lauraabeatrizsl/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
-</p>
-
-<p align="center">
-
-[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)](https://github.com/lauradevcode/)
   
+  [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)](https://github.com/lauradevcode/)
+
+
 </p>
 
  <h3 align='center'>
