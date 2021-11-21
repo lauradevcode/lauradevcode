@@ -53,7 +53,7 @@
 👀 Visualizações de Javeiros no meu perfil: <img src="https://komarev.com/ghpvc/?username=lauradevcode&color=green" />
 </p>
 
-<div>[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=radical)](https://github.com/lauradevcode/)</div>
+<div>[![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact=true&theme=radical)](https://github.com/iuricode/)</div>
 
 
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
