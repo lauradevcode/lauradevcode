@@ -21,10 +21,10 @@
   
 </p>
   
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=radical)<hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauradevcode&show_icons=true&locale=en&layout=compact" alt="lauradevcode" />
-</p>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=radical)<hr>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauradevcode&show_icons=true&locale=en&layout=compact" alt="lauradevcode" />
+
 
  <h3 align='center'>
   💻 My Skills 💻
