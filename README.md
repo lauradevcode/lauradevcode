@@ -23,9 +23,8 @@
 
 <p align="center">
 
-[![lauradevcode](https://github-readme-stats.vercel.app/api?username=lauradevcode&theme=synthwave)](https://github.com/lauradevcode/)
-
 [![lauradevcode](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&hide=html&layout=compact&theme=synthwave)](https://github.com/lauradevcode/)
+  
 </p>
 
  <h3 align='center'>
