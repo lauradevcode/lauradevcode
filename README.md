@@ -23,7 +23,7 @@
   
  <h3 align='center'>
   💻 My Skills 💻
-</h3>
+ </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -50,11 +50,12 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 </p>
 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
+<p align="center">
+  👀Total de visitas no meu perfil 👀 <br>
+</p>
+<p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/lauradevcode/count.svg" />
- </p>
+</p>
 
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
 
