@@ -49,10 +49,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 </p>
-<p align="center">
-👀 Visualizações de Javeiros no meu perfil: <img src="https://komarev.com/ghpvc/?username=lauradevcode&color=green" />
-</p>
 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lauradevcode/count.svg" />
+ </p>
 
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
 
