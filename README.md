@@ -1,11 +1,11 @@
 <p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+lauradevcode;Prazer+em+conhece-los!;🖥️💻&center=true&size=28"></p>
 <p align='center'>
-  Eu sou Desenvolvedora Web Front-end, moro em São Paulo, Brasil.
+  Desenvolvedora Web Front-end, moro em São Paulo, Brasil.
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
 <p align='center'>
