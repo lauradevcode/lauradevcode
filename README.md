@@ -1,13 +1,12 @@
 <p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+lauradevcode;Prazer+em+conhece-los!;🖥️💻&center=true&size=28"></p>
 <p align='center'>
-  I'm Web Developer Fullstack, from São Paulo, Brazil.
+  Eu sou Desenvolvedora Web Front-end, moro em São Paulo, Brasil.
 </p>
 
-<p align="center">
-<a href="https://github.com/lauradevcode">
-<img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" min-width="400px" max-width="400px" width="400px"  alt="Laura DevCode">
-
-</p><br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div><br>
 
 <p align='center'>
 
@@ -15,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/lauraabeatrizsl/">
+  <a href="[https://www.instagram.com/lauraabeatrizsl/](https://www.instagram.com/lauradevgirl/)">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -31,9 +30,10 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="4%" title="React" alt="React" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React JS" alt="React JS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="4%" title="Typescript" alt="Typescript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="4%" title="Figma" alt="Figma" />&nbsp;&nbsp;
   
   
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
