@@ -1,4 +1,4 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Eu+sou+Laura+Beatriz!;ou+lauradevcode;Prazer+em+conhece-los!;🖥️💻&center=true&size=28"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&lines=Olá+pessoal!+👋;Me+chamo+Laura+Beatriz!;Prazer+em+conhece-los!;🖥️💻&center=true&size=28"></p>
 <p align='center'>
   Desenvolvedora Web Fullstack, moro em São Paulo, Brasil.
 </p>
