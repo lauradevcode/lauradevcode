@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="[https://www.instagram.com/lauraabeatrizsl/](https://www.instagram.com/lauradevgirl/)">
+  <a href="[https://www.instagram.com/lauraablopes/](https://www.instagram.com/lauradevgirl/)">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -33,11 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React JS" alt="React JS" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="4%" title="Typescript" alt="Typescript" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align="center"> 
-<a href="https://www.linkedin.com/in/laurabeatrizlopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+
   
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
 
