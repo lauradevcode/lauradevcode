@@ -7,8 +7,6 @@
 <a href="https://fb.com/devcodelaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devcodelaura" height="30" width="40" /></a>
 <a href="https://instagram.com/lauraablopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lauraablopes" height="30" width="40" /></a>
 <a href="https://www.behance.net/laurabeatriz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="laurabeatriz2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lauradevcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lauradevcode" height="30" width="40" /></a>
-<a href="https://discord.gg/lauradevcode#6665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lauradevcode#6665" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
