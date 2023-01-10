@@ -1,4 +1,4 @@
-<img src="baixados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="ilustra">
+<img src="baixados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="ilustra" style="margin-left: 20px">
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
@@ -7,7 +7,7 @@
   - 💻 *CEO na @spn_ltda*
   
 ----
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laurabeatrizlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurabeatrizlopes" height="30" width="40" /></a>
