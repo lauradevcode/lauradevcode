@@ -1,4 +1,4 @@
-<img src="https://parallax-ilustra.netlify.app/" min-width="400px" max-width="400px" width="400px" align="right" alt="ilustra">
+<img src="baixados.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ilustra">
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
