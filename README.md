@@ -1,4 +1,4 @@
-<img src="baixados.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ilustra">
+<br><img src="baixados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="ilustra">
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
