@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://parallax-ilustra.netlify.app/" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
@@ -17,11 +17,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="Go-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 <img align="center" alt="Go-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Go-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Go-Mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="center" alt="VScode" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
