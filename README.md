@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Laura Beatriz</h1>
-<h3 align="center">A fascinated frontend developer, I'm from Brazil</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
+
+  - 📚 *Estudante de Desenvolvimento Frontend*  
+  - 👩🏿‍💻 *Programadora web (Front-End)*
+  - 💻 *CEO na @spn_ltda*
+  
+----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
