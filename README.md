@@ -25,3 +25,8 @@
 </div>
 
 ![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
+
+<h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
+</p>
