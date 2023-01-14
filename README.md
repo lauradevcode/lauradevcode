@@ -28,5 +28,5 @@
 
 <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/lauradevcode/count.svg"/>
 </p>
