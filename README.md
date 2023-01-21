@@ -4,7 +4,7 @@
 
   - 📚 *Estudante de Frontend / UI Design*  
   - 👩🏿‍💻 *Desenvolvedora Javascript*
-  - 💻 *CEO na @spn_ltda*
+  - 💻 *Líder na @spn*
   
 ----
 
