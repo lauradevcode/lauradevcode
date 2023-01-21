@@ -24,8 +24,6 @@
 <img align="center" alt="VScode" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
-
 ## Coding Activity
 
  <div align="center">
@@ -33,3 +31,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+
+![Snake animation](https://github.com/lauradevcode/lauradevcode/blob/output/github-contribution-grid-snake.svg)
