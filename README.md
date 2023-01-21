@@ -1,4 +1,4 @@
-<img src="Codegirl.png" min-width="300px" max-width="300px" width="300px" align="right" alt="ilustra" style="margin-left: 100px">
+<img src="codegirl.png" min-width="300px" max-width="300px" width="300px" align="right" alt="ilustra" style="margin-left: 100px">
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
