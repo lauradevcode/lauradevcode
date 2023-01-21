@@ -2,8 +2,8 @@
 
 ## 🙋🏾‍♀Olá, eu sou a Laura Beatriz.
 
-  - 📚 *Estudante de Desenvolvimento Frontend / UI Design*  
-  - 👩🏿‍💻 *Programadora web JR (Front-End)*
+  - 📚 *Estudante de Frontend / UI Design*  
+  - 👩🏿‍💻 *Desenvolvedora Javascript*
   - 💻 *CEO na @spn_ltda*
   
 ----
