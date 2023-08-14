@@ -5,11 +5,8 @@
 <img src="codegirl.png" min-width="300px" max-width="400px" width="400px" align="right" alt="ilustra" style="margin-left: 100px">
 
 - 🎯 Hoje eu busco crescer como Designer de produtos.
-- 🌱 Atualmente estou revendo tópicos de UI Design básico para avançar nos meus estudos.
-- 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ela/Dela
 - 👦🏻 Tenho 25 anos e sou de Brasília, tenho disponibilidade de mudança de estado/país!
-- 📚 Estudante de Sistemas de informação Anhanguera (6/8).
 
 ##
 
