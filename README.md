@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1F9F2&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Laura+Beatriz!;Desenvolvedora+fullstack!;Este+é+o+meu+GitHub!;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1F9F2&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Laura+Beatriz!;Web+Designer!;Este+é+o+meu+GitHub!;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 ##
 
