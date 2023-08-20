@@ -6,7 +6,7 @@
 
 - 🎯 Hoje eu busco crescer como Designer de produtos.
 - 😄 Pronouns: Ela/Dela
-- 👩🏽 Tenho 25 anos e sou de Brasília, tenho disponibilidade de mudança de estado/país!
+- 👩🏽‍💻 Tenho 25 anos e sou de Brasília, tenho disponibilidade de mudança de estado/país!
 
 ##
 
