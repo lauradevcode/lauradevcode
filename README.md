@@ -42,10 +42,10 @@
 
  <div align="center">
 
-  <a href="[https://github.com/lauradevcode](https://github.com/lauradevcode)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauradevcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&layout=compact&langs_count=16&theme=dracula"/>
-  
+![lauradevcode GitHub status](https://github-readme-stats.vercel.app/api?username=lauradevcode&hide=contribs,issues&show_icons=true&theme=dark)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 
 ##
