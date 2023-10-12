@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
 <h2>💻 Linguagens e Ferramentas</h2> 
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+<img align="center" title="html5" height="40" width="40" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
 <img align="center" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" title="bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
