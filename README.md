@@ -10,11 +10,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/lauradevcode">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=atrylli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
 <div style="display: inline_block"><br>
 <h2 align = "left">💻 Linguagens e Ferramentas</h2> 
 
