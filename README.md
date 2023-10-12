@@ -18,12 +18,13 @@
 <div style="display: inline_block"><br>
 <h2>💻 Linguagens e Ferramentas</h2> 
 
-<img align="center" title="html5" height="50" width="50" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-<img align="center" title="CSS" height="50" width="50"  src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4" />
-<img align="center" title="bootstrap" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" title="javascript" height="50" width="50"  src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-<img align="center" title="Jquery" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img align="center" title="Git" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" title="html5" height="50" width="50" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" title="CSS" height="50" width="50"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" title="bootstrap" height="50" width="50"  src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" title="javascript" height="50" width="50"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="center" title="Jquery" height="50" width="50"  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="center" title="Git" height="50" width="50"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" title="vue" height="50" width="50"  src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 
 </div>
 
