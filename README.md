@@ -10,7 +10,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <h2 align = "left">💻 Linguagens e Ferramentas</h2> 
 
 <img title="html5" height="30" width="60" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
