@@ -16,7 +16,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<h2>💻 Linguagens e Ferramentas</h2> 
+<h2 align = "left">💻 Linguagens e Ferramentas</h2> 
 
 <img align="center" title="html5" height="30" width="60" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" title="CSS" height="30" width="60" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
