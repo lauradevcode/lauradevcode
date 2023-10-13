@@ -28,7 +28,6 @@
 
 <h2 align = "left"> Conecte-se Comigo!  </h2>
 <a href = "https://www.facebook.com/profile.php?id=100094957341978"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/laura.multigl/" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366612627476/1676668902216.png" target="_blank" height="30" width="30"></a>
 <a href="https://www.linkedin.com/in/lauradevcode/" target="_blank"><img src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366855905290/1676668808990.png" target="_blank" height="30" width="30"></a> 
 
 </div>
@@ -38,7 +37,6 @@
 <div align="center">
 
 ![lauradevcode GitHub status](https://github-readme-stats.vercel.app/api?username=lauradevcode&hide=contribs,issues&show_icons=true&theme=dark)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
