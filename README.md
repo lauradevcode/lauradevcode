@@ -18,8 +18,6 @@
 <img align="center" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" width="60px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
-<img align="center" width="60px" height="60px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-<img align="center" width="60px" height="60px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 
 </div>
@@ -38,7 +36,7 @@
 
  ## ⭐ Github stats
 
-<div align="left">
+<div align="center">
 
 ![lauradevcode GitHub status](https://github-readme-stats.vercel.app/api?username=lauradevcode&hide=contribs,issues&show_icons=true&theme=dark)
 <br/>
