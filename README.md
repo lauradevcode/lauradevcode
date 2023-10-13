@@ -1,9 +1,9 @@
 <h1 align="center">🦄 Hello, my name is <strong>{ Laura } !</strong> </h1>
 
- 🌈 I’m interested in **Front-end**
+- 🌈 Me especializando em **Front-end**
 - 🎯 Hoje eu busco crescer como Desenvolvedora Frontend.
 - 😄 Pronouns: Ela/Dela
-- 👩🏽‍💻 Tenho 25 anos e sou de Brasília, tenho disponibilidade de mudança de estado/país!
+- 👩🏽‍💻 Tenho 25 anos, tenho disponibilidade de mudança de estado/país!
 ##
 
 <img src="codegirl.png" min-width="300px" max-width="400px" width="400px" align="right" alt="ilustra" style="margin-left: 100px">
@@ -40,5 +40,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradevcode&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-
-
