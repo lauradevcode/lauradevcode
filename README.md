@@ -2,7 +2,7 @@
 
 - 🌈 Me especializando em **Front-end**
 - 😄 Pronouns: Ela/Dela
-- 👩🏽‍💻 Tenho 25 anos, tenho disponibilidade de mudança de estado/país!
+- 👩🏽‍💻 Tenho 26 anos, tenho disponibilidade de mudança de estado/país!
 ##
 
 <div style="display: inline_block">
