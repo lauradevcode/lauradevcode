@@ -1,8 +1,8 @@
 <h1 align="center">🦄 Hello, my name is <strong>{ Laura } !</strong> </h1>
 
-- 🌈 Me especializando em **Front-end**
+- 🌈 Front-end Developer
 - 😄 Pronouns: Ela/Dela
-- 👩🏽‍💻 Tenho 26 anos, tenho disponibilidade de mudança de estado/país!
+- 👩🏽‍💻 Tenho 27 anos, tenho disponibilidade de mudança de estado/país!
 ##
 
 <div style="display: inline_block">
