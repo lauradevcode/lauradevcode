@@ -1,4 +1,4 @@
-<h1 align="center">🦄 Hello, my name is <strong>{ Laura } !</strong> </h1>
+<h1 align="center">🦄 Hello, my name is <strong> Laura  !</strong> </h1>
 
 - 🌈 Front-end Developer
 - 😄 Empreendedora e Criadora da comunidade @PainCodes
