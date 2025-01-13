@@ -1,8 +1,7 @@
 <h1 align="center">🦄 Hello, my name is <strong> Laura  !</strong> </h1>
 
 - 🌈 Front-end Developer
-- 😄 Empreendedora e Criadora da comunidade @PainCodes
-- 👩🏽‍💻 Tenho 27 anos, tenho disponibilidade de mudança de estado/país!
+- 😄 CEO na CodesSolutions e Criadora da comunidade @PainCodes
 ##
 
 <div style="display: inline_block">
