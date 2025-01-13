@@ -1,5 +1,11 @@
 <h2 align="left">Hi ! My name is Laura👋.. and I'm from Brazil.</h2>
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Frontend Developer ...<br>📚 I'm currently learning React...<br></p>
+
 ###
 
 <div align="left">
