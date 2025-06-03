@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Frontend Developer ...<br>📚 I'm currently learning React...<br></p>
+<p align="left">✨ Criadora do AgenteGPT ...<br><br></p>
 
 ###
 
