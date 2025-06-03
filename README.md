@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-<a href="https://www.instagram.com/laurabnfts" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/lauradesigncode" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" target="_blank"/>
 </a>
 
