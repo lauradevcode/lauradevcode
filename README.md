@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🤖 Criadora do AgenteGPT ...<br><br></p>
+<p align="left">🤖CEO - AgenteGPT ...<br><br></p>
 
 ###
 
