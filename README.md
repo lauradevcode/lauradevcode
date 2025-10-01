@@ -1,10 +1,10 @@
-<h2 align="left">Hi ! My name is Laura👋.. and I'm from Brazil.</h2>
+<h2 align="left">Hi ! My name is Laura👋..</h2>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🤖CEO - AgenteGPT ...<br><br></p>
+<p align="left">🤖Founder do @psitelemedicina ...<br><br></p>
 
 ###
 
