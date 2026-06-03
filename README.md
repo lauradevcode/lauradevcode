@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Dev Full Stack, palestrante em formação e educadora de tecnologia para devs empreendedores<br><br></p>
+<p align="left">Full Stack Developer, speaker in training and technology educator for entrepreneurial developers.<br><br></p>
 
 ###
 
